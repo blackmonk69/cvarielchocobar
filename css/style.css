@@ -309,12 +309,12 @@ a:focus {
 /**********************************/
 .header {
     position: relative;
-    background: #ffffff;
+    background: #f8f2ec;
 }
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    background: url(../img/profile2.png) right bottom no-repeat;
     background-size: contain;
 }
 
